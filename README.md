@@ -1,6 +1,8 @@
 # Spring-Ticket-System
-Spring-Ticket-System is a ticketing application which allows developers to track bugs in applications.
-Deployed in TomCat
+Spring-Ticket-System is a ticketing application which allows developers to track bugs in applications.  
+
+Deployed using TomCat.  
+
 Primarily developed in Spring Boot, uses h2 relational database to store the data.
 
 Accessible from localhost:8080/h2
