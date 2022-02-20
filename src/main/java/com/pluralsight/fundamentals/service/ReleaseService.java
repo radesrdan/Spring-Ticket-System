@@ -2,8 +2,10 @@ package com.pluralsight.fundamentals.service;
 
 import com.pluralsight.fundamentals.entity.Release;
 
+import java.util.List;
+
 public interface ReleaseService {
-    Iterable<Release> listReleases();
+    List<Release> listReleases();
 }
 
 
